@@ -1,0 +1,15 @@
+BigBag
+50
+100
+EarRings
+17
+202
+GoldChain
+20
+890
+Watch
+1
+200
+Belt
+20
+60
